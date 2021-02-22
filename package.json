@@ -1,0 +1,15 @@
+{
+  "name": "master-database",
+  "version": "1.0.0",
+  "description": "Master Express Database for multiple front end projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Melissa Longenberger <melissa@beedev-services.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "cross-env": "^7.0.3",
+    "nodemon": "^2.0.7"
+  }
+}
